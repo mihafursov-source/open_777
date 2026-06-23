@@ -1,0 +1,425 @@
+---
+type: "entity"
+entity_type: "color"
+name: "Blue"
+up:
+  - "[[Entity Index]]"
+appears_in:
+  - "[[02 Chokmah]]"
+  - "[[04 Chesed]]"
+  - "[[13 Gimel]]"
+  - "[[21 Kaph]]"
+  - "[[22 Lamed]]"
+  - "[[25 Samekh]]"
+related:
+  tarot:
+    - "[[Kings - Knights]]"
+    - "[[Moon]]"
+    - "[[Sun]]"
+    - "[[Temperance]]"
+  hebrew_letters:
+    - "[[Gimel]]"
+    - "[[Kaph]]"
+    - "[[Lamed]]"
+    - "[[Samekh]]"
+  sefiros:
+    - "[[Chesed]]"
+    - "[[Geburah]]"
+    - "[[Kether]]"
+    - "[[Netzach]]"
+    - "[[Tiphareth]]"
+    - "[[Yesod]]"
+  paths:
+    - "[[13 Gimel]]"
+    - "[[21 Kaph]]"
+    - "[[22 Lamed]]"
+    - "[[25 Samekh]]"
+related_entities:
+  - "[[A'abiririon]]"
+  - "[[ALIM]]"
+  - "[[Acquisitio]]"
+  - "[[Advachiel]]"
+  - "[[Akasa]]"
+  - "[[Alder, Pomegranate]]"
+  - "[[Aloe]]"
+  - "[[Aloes]]"
+  - "[[Amethyst]]"
+  - "[[Amoun]]"
+  - "[[Amoun-Ra]]"
+  - "[[Andras]]"
+  - "[[Apollo]]"
+  - "[[Arnica, Cedar]]"
+  - "[[Artemis]]"
+  - "[[Athena]]"
+  - "[[Auphanim]]"
+  - "[[Bime]]"
+  - "[[Blue pearl grey]]"
+  - "[[Blueish mauve]]"
+  - "[[Brahma]]"
+  - "[[Brilliant flame]]"
+  - "[[Camphor]]"
+  - "[[Cedar]]"
+  - "[[Centaur]]"
+  - "[[Chashmalim]]"
+  - "[[Chedeqiel]]"
+  - "[[Chesed]]"
+  - "[[Chomse]]"
+  - "[[Clairvoyance]]"
+  - "[[Cocaine]]"
+  - "[[Cross]]"
+  - "[[Crystal]]"
+  - "[[Dark vivid blue]]"
+  - "[[Deep purple]]"
+  - "[[Deep violet]]"
+  - "[[Divination by Dreams]]"
+  - "[[Dog]]"
+  - "[[Emerald]]"
+  - "[[Emerald green]]"
+  - "[[Enneagram]]"
+  - "[[Gabriel]]"
+  - "[[Galbanum]]"
+  - "[[Gamori]]"
+  - "[[Geburah]]"
+  - "[[Gha'agsheklah]]"
+  - "[[Ghagiel]]"
+  - "[[Gimel]]"
+  - "[[Glasyalabolas]]"
+  - "[[God the Farmer's Friend]]"
+  - "[[God the Fater]]"
+  - "[[God the Rain-Maker]]"
+  - "[[Greek Cross Solid]]"
+  - "[[Green]]"
+  - "[[Grey]]"
+  - "[[Hathoor]]"
+  - "[[Hekate]]"
+  - "[[Hippogriff]]"
+  - "[[Horse]]"
+  - "[[IHVH]]"
+  - "[[Indra]]"
+  - "[[Iris]]"
+  - "[[Jacinth]]"
+  - "[[Jupiter]]"
+  - "[[Justice]]"
+  - "[[Kaph]]"
+  - "[[Kether]]"
+  - "[[Kings - Knights]]"
+  - "[[Lamed]]"
+  - "[[Laodicea]]"
+  - "[[Lapis Lazuli]]"
+  - "[[Li]]"
+  - "[[Libitina]]"
+  - "[[Libra]]"
+  - "[[Lign-aloes]]"
+  - "[[Lingam]]"
+  - "[[Lucifuge]]"
+  - "[[Ma]]"
+  - "[[Maat]]"
+  - "[[Malkah Be Tarshishim v'A'ad b'Ruach Shehaqim]]"
+  - "[[Man]]"
+  - "[[Marax]]"
+  - "[[Menstrual Blood]]"
+  - "[[Mercury]]"
+  - "[[Minos]]"
+  - "[[Moon]]"
+  - "[[Moonstone]]"
+  - "[[Musk]]"
+  - "[[Necheshiron]]"
+  - "[[Nephthys]]"
+  - "[[Netzach]]"
+  - "[[Nuith]]"
+  - "[[ON]]"
+  - "[[Odin]]"
+  - "[[Opium]]"
+  - "[[Opium Poppy]]"
+  - "[[Orobas]]"
+  - "[[Oso]]"
+  - "[[Pale green]]"
+  - "[[Pearl]]"
+  - "[[Pennyroyal]]"
+  - "[[Philadelphia]]"
+  - "[[Phosphorus]]"
+  - "[[Praying Mantis]]"
+  - "[[Puella]]"
+  - "[[Pure soft blue]]"
+  - "[[Purson]]"
+  - "[[Raphael]]"
+  - "[[Ratziel]]"
+  - "[[Ronove]]"
+  - "[[Rush]]"
+  - "[[Sachiel]]"
+  - "[[Saffron]]"
+  - "[[Sagittarius]]"
+  - "[[Sallos]]"
+  - "[[Samael]]"
+  - "[[Samekh]]"
+  - "[[Saritiel]]"
+  - "[[Saturn]]"
+  - "[[Sceptre]]"
+  - "[[Shinanim]]"
+  - "[[Shiva]]"
+  - "[[Silver]]"
+  - "[[Spider]]"
+  - "[[Star Ruby]]"
+  - "[[Stork, Camel]]"
+  - "[[Sun]]"
+  - "[[Suyasel]]"
+  - "[[Table of Shew-bread]]"
+  - "[[Temperance]]"
+  - "[[Terminus, Jupiter]]"
+  - "[[The 4 Fours]]"
+  - "[[The 4 Twos]]"
+  - "[[The Cross]]"
+  - "[[The Cross of Equilibrium]]"
+  - "[[The High Priestess]]"
+  - "[[The Line]]"
+  - "[[The Sceptre]]"
+  - "[[The Solid Figure]]"
+  - "[[The Vision of Love]]"
+  - "[[The Wand]]"
+  - "[[The White Tincture]]"
+  - "[[The Word]]"
+  - "[[Themis]]"
+  - "[[Thoth]]"
+  - "[[Tiphareth]]"
+  - "[[Tobacco]]"
+  - "[[Turquoise]]"
+  - "[[Tzadkiel]]"
+  - "[[Tzadqiel]]"
+  - "[[Unicorn]]"
+  - "[[Uranus]]"
+  - "[[VIAOV]]"
+  - "[[Venus, Nemesis]]"
+  - "[[Very dark brown]]"
+  - "[[Violet]]"
+  - "[[Vishnu]]"
+  - "[[Vision of Antinomies]]"
+  - "[[Vision of Universal Peacock]]"
+  - "[[Volac]]"
+  - "[[Wheel of Fortune]]"
+  - "[[White]]"
+  - "[[Wotan]]"
+  - "[[Yahel]]"
+  - "[[Yama]]"
+  - "[[Yellow]]"
+  - "[[Yesod]]"
+  - "[[Yophiel]]"
+  - "[[Zagan]]"
+  - "[[Zeus]]"
+  - "[[Zuriel]]"
+  - "[[moun]]"
+  - "[[who guides Parliament]]"
+tags:
+  - "liber777"
+  - "entity"
+  - "color"
+source:
+  repo: "open_777"
+  file: "docs/liber_777.csv"
+---
+
+# Blue
+
+## Тип
+
+Color.
+
+## Где встречается
+
+- [[02 Chokmah]]
+- [[04 Chesed]]
+- [[13 Gimel]]
+- [[21 Kaph]]
+- [[22 Lamed]]
+- [[25 Samekh]]
+
+## Связанные соответствия
+
+- [[A'abiririon]]
+- [[ALIM]]
+- [[Acquisitio]]
+- [[Advachiel]]
+- [[Akasa]]
+- [[Alder, Pomegranate]]
+- [[Aloe]]
+- [[Aloes]]
+- [[Amethyst]]
+- [[Amoun]]
+- [[Amoun-Ra]]
+- [[Andras]]
+- [[Apollo]]
+- [[Arnica, Cedar]]
+- [[Artemis]]
+- [[Athena]]
+- [[Auphanim]]
+- [[Bime]]
+- [[Blue pearl grey]]
+- [[Blueish mauve]]
+- [[Brahma]]
+- [[Brilliant flame]]
+- [[Camphor]]
+- [[Cedar]]
+- [[Centaur]]
+- [[Chashmalim]]
+- [[Chedeqiel]]
+- [[Chesed]]
+- [[Chomse]]
+- [[Clairvoyance]]
+- [[Cocaine]]
+- [[Cross]]
+- [[Crystal]]
+- [[Dark vivid blue]]
+- [[Deep purple]]
+- [[Deep violet]]
+- [[Divination by Dreams]]
+- [[Dog]]
+- [[Emerald]]
+- [[Emerald green]]
+- [[Enneagram]]
+- [[Gabriel]]
+- [[Galbanum]]
+- [[Gamori]]
+- [[Geburah]]
+- [[Gha'agsheklah]]
+- [[Ghagiel]]
+- [[Gimel]]
+- [[Glasyalabolas]]
+- [[God the Farmer's Friend]]
+- [[God the Fater]]
+- [[God the Rain-Maker]]
+- [[Greek Cross Solid]]
+- [[Green]]
+- [[Grey]]
+- [[Hathoor]]
+- [[Hekate]]
+- [[Hippogriff]]
+- [[Horse]]
+- [[IHVH]]
+- [[Indra]]
+- [[Iris]]
+- [[Jacinth]]
+- [[Jupiter]]
+- [[Justice]]
+- [[Kaph]]
+- [[Kether]]
+- [[Kings - Knights]]
+- [[Lamed]]
+- [[Laodicea]]
+- [[Lapis Lazuli]]
+- [[Li]]
+- [[Libitina]]
+- [[Libra]]
+- [[Lign-aloes]]
+- [[Lingam]]
+- [[Lucifuge]]
+- [[Ma]]
+- [[Maat]]
+- [[Malkah Be Tarshishim v'A'ad b'Ruach Shehaqim]]
+- [[Man]]
+- [[Marax]]
+- [[Menstrual Blood]]
+- [[Mercury]]
+- [[Minos]]
+- [[Moon]]
+- [[Moonstone]]
+- [[Musk]]
+- [[Necheshiron]]
+- [[Nephthys]]
+- [[Netzach]]
+- [[Nuith]]
+- [[ON]]
+- [[Odin]]
+- [[Opium]]
+- [[Opium Poppy]]
+- [[Orobas]]
+- [[Oso]]
+- [[Pale green]]
+- [[Pearl]]
+- [[Pennyroyal]]
+- [[Philadelphia]]
+- [[Phosphorus]]
+- [[Praying Mantis]]
+- [[Puella]]
+- [[Pure soft blue]]
+- [[Purson]]
+- [[Raphael]]
+- [[Ratziel]]
+- [[Ronove]]
+- [[Rush]]
+- [[Sachiel]]
+- [[Saffron]]
+- [[Sagittarius]]
+- [[Sallos]]
+- [[Samael]]
+- [[Samekh]]
+- [[Saritiel]]
+- [[Saturn]]
+- [[Sceptre]]
+- [[Shinanim]]
+- [[Shiva]]
+- [[Silver]]
+- [[Spider]]
+- [[Star Ruby]]
+- [[Stork, Camel]]
+- [[Sun]]
+- [[Suyasel]]
+- [[Table of Shew-bread]]
+- [[Temperance]]
+- [[Terminus, Jupiter]]
+- [[The 4 Fours]]
+- [[The 4 Twos]]
+- [[The Cross]]
+- [[The Cross of Equilibrium]]
+- [[The High Priestess]]
+- [[The Line]]
+- [[The Sceptre]]
+- [[The Solid Figure]]
+- [[The Vision of Love]]
+- [[The Wand]]
+- [[The White Tincture]]
+- [[The Word]]
+- [[Themis]]
+- [[Thoth]]
+- [[Tiphareth]]
+- [[Tobacco]]
+- [[Turquoise]]
+- [[Tzadkiel]]
+- [[Tzadqiel]]
+- [[Unicorn]]
+- [[Uranus]]
+- [[VIAOV]]
+- [[Venus, Nemesis]]
+- [[Very dark brown]]
+- [[Violet]]
+- [[Vishnu]]
+- [[Vision of Antinomies]]
+- [[Vision of Universal Peacock]]
+- [[Volac]]
+- [[Wheel of Fortune]]
+- [[White]]
+- [[Wotan]]
+- [[Yahel]]
+- [[Yama]]
+- [[Yellow]]
+- [[Yesod]]
+- [[Yophiel]]
+- [[Zagan]]
+- [[Zeus]]
+- [[Zuriel]]
+- [[moun]]
+- [[who guides Parliament]]
+
+## Dataview
+
+```dataview
+LIST
+FROM "01 Sefirot" OR "02 Paths"
+WHERE contains(file.outlinks, this.file.link)
+```
+
+## Исходные данные
+
+- open_777
+- docs/liber_777.csv
+- строки исходной таблицы: 2, 4, 13, 21, 22, 25
+- дополнительные JS-источники: нет
+- raw значения: Blue, White, flecked red, blue, and yellow

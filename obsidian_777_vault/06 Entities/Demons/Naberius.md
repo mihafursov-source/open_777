@@ -1,0 +1,122 @@
+---
+type: "entity"
+entity_type: "demon"
+name: "Naberius"
+up:
+  - "[[Entity Index]]"
+appears_in:
+  - "[[24 Nun]]"
+related:
+  tarot:
+    - "[[Kundalini Yama]]"
+  hebrew_letters:
+    - "[[Nun]]"
+  sefiros:
+    - "[[Netzach]]"
+    - "[[Tiphareth]]"
+  paths:
+    - "[[24 Nun]]"
+related_entities:
+  - "[[AUMGN]]"
+  - "[[Aim]]"
+  - "[[Amy]]"
+  - "[[Apep]]"
+  - "[[Apollo the Pythean, Thanatos]]"
+  - "[[Barachiel]]"
+  - "[[Death]]"
+  - "[[Dull brown]]"
+  - "[[Green blue]]"
+  - "[[Greenish Turquoise]]"
+  - "[[Hammemit]]"
+  - "[[Ipos]]"
+  - "[[Khephra]]"
+  - "[[Kundalini Yama]]"
+  - "[[Mars]]"
+  - "[[Merti goddesses]]"
+  - "[[Mors]]"
+  - "[[Napula]]"
+  - "[[Necheshthiron]]"
+  - "[[Necromancy]]"
+  - "[[Netzach]]"
+  - "[[Nun]]"
+  - "[[Opoponax]]"
+  - "[[Oriax]]"
+  - "[[Rubeus]]"
+  - "[[Saitziel]]"
+  - "[[Scorpio]]"
+  - "[[Siamese Benzoin]]"
+  - "[[Susul]]"
+  - "[[The Oath]]"
+  - "[[Tiphareth]]"
+  - "[[Typhon]]"
+  - "[[Venetian red]]"
+tags:
+  - "liber777"
+  - "entity"
+  - "demon"
+source:
+  repo: "open_777"
+  file: "docs/liber_777.csv"
+---
+
+# Naberius
+
+## Тип
+
+Demon.
+
+## Где встречается
+
+- [[24 Nun]]
+
+## Связанные соответствия
+
+- [[AUMGN]]
+- [[Aim]]
+- [[Amy]]
+- [[Apep]]
+- [[Apollo the Pythean, Thanatos]]
+- [[Barachiel]]
+- [[Death]]
+- [[Dull brown]]
+- [[Green blue]]
+- [[Greenish Turquoise]]
+- [[Hammemit]]
+- [[Ipos]]
+- [[Khephra]]
+- [[Kundalini Yama]]
+- [[Mars]]
+- [[Merti goddesses]]
+- [[Mors]]
+- [[Napula]]
+- [[Necheshthiron]]
+- [[Necromancy]]
+- [[Netzach]]
+- [[Nun]]
+- [[Opoponax]]
+- [[Oriax]]
+- [[Rubeus]]
+- [[Saitziel]]
+- [[Scorpio]]
+- [[Siamese Benzoin]]
+- [[Susul]]
+- [[The Oath]]
+- [[Tiphareth]]
+- [[Typhon]]
+- [[Venetian red]]
+
+## Dataview
+
+```dataview
+LIST
+FROM "01 Sefirot" OR "02 Paths"
+WHERE contains(file.outlinks, this.file.link)
+```
+
+## Исходные данные
+
+- open_777
+- docs/liber_777.csv
+- строки исходной таблицы: 24
+- дополнительные JS-источники: src/constants/liber_777.js :: CLIX. Goetic Demons of the Decans by Day (Cadent)
+- raw значения: Naberius
