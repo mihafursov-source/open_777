@@ -22,10 +22,10 @@
 - 20 - Звезда.md -> Major Arcana/The Star.md
 - 21 - Башня.md -> Major Arcana/The House of God.md
 - 22 - Дьявол.md -> Major Arcana/The Devil.md
-- 23 - Король Чаш.md -> Major Arcana/Kings - Knights.md
-- 24 - Дама Чаш.md -> Major Arcana/Queens.md
-- 25 - Рыцарь Чаш.md -> Minor Arcana/The 4 Sixes.md
-- 26 - Паж Чаш.md -> Minor Arcana/The 4 Tens.md
+- 23 - Король Чаш.md -> Minor Arcana/Court Cards/Kings/Король Чаш.md
+- 24 - Дама Чаш.md -> Minor Arcana/Court Cards/Queens/Дама Чаш.md
+- 25 - Рыцарь Чаш.md -> Minor Arcana/Court Cards/Princes/Рыцарь Чаш.md
+- 26 - Паж Чаш.md -> Minor Arcana/Court Cards/Princesses/Паж Чаш.md
 - 27 - Десятка Чаш.md -> Minor Arcana/The 4 Tens.md
 - 28 - Девятка Чаш.md -> Minor Arcana/The 4 Nines.md
 - 29 - Восьмерка Чаш.md -> Minor Arcana/The 4 Eights.md
@@ -46,10 +46,10 @@
 - 44 - Восьмерка Жезлов.md -> Minor Arcana/The 4 Eights.md
 - 45 - Девятка Жезлов.md -> Minor Arcana/The 4 Nines.md
 - 46 - Десятка Жезлов.md -> Minor Arcana/The 4 Tens.md
-- 47 - Паж Жезлов.md -> Minor Arcana/The 4 Tens.md
-- 48 - Рыцарь Жезлов.md -> Minor Arcana/The 4 Sixes.md
-- 49 - Дама Жезлов.md -> Major Arcana/Queens.md
-- 50 - Король Жезлов.md -> Major Arcana/Kings - Knights.md
+- 47 - Паж Жезлов.md -> Minor Arcana/Court Cards/Princesses/Паж Жезлов.md
+- 48 - Рыцарь Жезлов.md -> Minor Arcana/Court Cards/Princes/Рыцарь Жезлов.md
+- 49 - Дама Жезлов.md -> Minor Arcana/Court Cards/Queens/Дама Жезлов.md
+- 50 - Король Жезлов.md -> Minor Arcana/Court Cards/Kings/Король Жезлов.md
 - 51 - Туз Мечей.md -> Minor Arcana/The 4 Aces.md
 - 52 - Двойка Мечей.md -> Minor Arcana/The 4 Twos.md
 - 53 - Тройка Мечей.md -> Minor Arcana/The 4 Threes.md
@@ -60,14 +60,14 @@
 - 58 - Восьмерка Мечей.md -> Minor Arcana/The 4 Eights.md
 - 59 - Девятка Мечей.md -> Minor Arcana/The 4 Nines.md
 - 60 - Десятка Мечей.md -> Minor Arcana/The 4 Tens.md
-- 61 - Паж Мечей.md -> Minor Arcana/The 4 Tens.md
-- 62 - Рыцарь Мечей.md -> Minor Arcana/The 4 Sixes.md
-- 63 - Дама Мечей.md -> Major Arcana/Queens.md
-- 64 - Король Мечей.md -> Major Arcana/Kings - Knights.md
-- 65 - Король Пентаклей.md -> Major Arcana/Kings - Knights.md
-- 66 - Дама Пентаклей.md -> Major Arcana/Queens.md
-- 67 - Рыцарь Пентаклей.md -> Minor Arcana/The 4 Sixes.md
-- 68 - Паж Пентаклей.md -> Minor Arcana/The 4 Tens.md
+- 61 - Паж Мечей.md -> Minor Arcana/Court Cards/Princesses/Паж Мечей.md
+- 62 - Рыцарь Мечей.md -> Minor Arcana/Court Cards/Princes/Рыцарь Мечей.md
+- 63 - Дама Мечей.md -> Minor Arcana/Court Cards/Queens/Дама Мечей.md
+- 64 - Король Мечей.md -> Minor Arcana/Court Cards/Kings/Король Мечей.md
+- 65 - Король Пентаклей.md -> Minor Arcana/Court Cards/Kings/Король Пентаклей.md
+- 66 - Дама Пентаклей.md -> Minor Arcana/Court Cards/Queens/Дама Пентаклей.md
+- 67 - Рыцарь Пентаклей.md -> Minor Arcana/Court Cards/Princes/Рыцарь Пентаклей.md
+- 68 - Паж Пентаклей.md -> Minor Arcana/Court Cards/Princesses/Паж Пентаклей.md
 - 69 - Десятка Пентаклей.md -> Minor Arcana/The 4 Tens.md
 - 70 - Девятка Пентаклей.md -> Minor Arcana/The 4 Nines.md
 - 71 - Восьмерка Пентаклей.md -> Minor Arcana/The 4 Eights.md
