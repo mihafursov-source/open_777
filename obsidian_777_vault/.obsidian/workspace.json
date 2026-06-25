@@ -11,13 +11,14 @@
             "id": "95c330a7b8ea0931",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.base",
-                "viewName": "Таблица"
+                "file": "02 Paths/24 Nun.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "24 Nun"
             }
           },
           {
@@ -26,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Tarot/Major Arcana/Emperors of Princes.md",
+                "file": "01 Sefirot/03 Binah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emperors of Princes"
+              "title": "03 Binah"
             }
           }
         ],
@@ -201,7 +202,25 @@
   },
   "active": "e534a1857e5a7c36",
   "lastOpenFiles": [
+    "01 Sefirot/02 Chokmah.md",
+    "02 Paths/11 Aleph.md",
+    "_source/bonner_sefirot_mapping.md",
+    "_source/bonner_sefirot/10 Malkuth - Bonner.md",
+    "_source/bonner_sefirot/09 Yesod - Bonner.md",
+    "_source/bonner_sefirot/08 Hod - Bonner.md",
+    "_source/bonner_sefirot/07 Netzach - Bonner.md",
+    "_source/bonner_sefirot/06 Tiphareth - Bonner.md",
+    "_source/bonner_sefirot/05 Geburah - Bonner.md",
+    "_source/bonner_sefirot/04 Chesed - Bonner.md",
+    "_source/bonner_sefirot/03 Binah - Bonner.md",
+    "_source/bonner_sefirot/02 Chokmah - Bonner.md",
+    "_source/bonner_sefirot/01 Kether - Bonner.md",
+    "_source/bonner_sefirot",
+    "03 Tarot/Major Arcana/The Sun.md",
+    "03 Tarot/Minor Arcana/The 4 Aces.md",
     "03 Tarot/Minor Arcana/Court Cards.md",
+    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Жезлов.md",
+    "03 Tarot/Major Arcana/Emperors of Princes.md",
     "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Пентаклей.md",
     "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Чаш.md",
     "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Мечей.md",
@@ -212,28 +231,9 @@
     "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Мечей.md",
     "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Жезлов.md",
     "03 Tarot/Minor Arcana/Court Cards/Princes",
-    "03 Tarot/Minor Arcana/Court Cards/Queens/Дама Пентаклей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Queens/Дама Мечей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Queens/Дама Чаш.md",
-    "03 Tarot/Minor Arcana/Court Cards/Queens/Дама Жезлов.md",
     "03 Tarot/Minor Arcana/Court Cards/Queens",
-    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Пентаклей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Чаш.md",
-    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Мечей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Жезлов.md",
     "03 Tarot/Minor Arcana/Court Cards/Kings",
     "03 Tarot/Minor Arcana/Court Cards",
-    "README.md",
-    "Без названия 1.base",
-    "Без названия.base",
-    "03 Tarot/Major Arcana/Emperors of Princes.md",
-    "03 Tarot/Major Arcana/Temperance.md",
-    "03 Tarot/Major Arcana/Kings - Knights.md",
-    "03 Tarot/Major Arcana/Queens.md",
-    "03 Tarot/Major Arcana/Cups.md",
-    "03 Tarot/Major Arcana/Wands.md",
-    "03 Tarot/Major Arcana/Justice.md",
-    "03 Tarot/Major Arcana/Hermit.md",
     "Excalidraw"
   ]
 }
