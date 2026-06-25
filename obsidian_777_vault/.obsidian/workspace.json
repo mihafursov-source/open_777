@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Sefirot/03 Binah.md",
+                "file": "01 Sefirot/08 Hod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Binah"
+              "title": "08 Hod"
             }
           }
         ],
@@ -202,7 +202,17 @@
   },
   "active": "e534a1857e5a7c36",
   "lastOpenFiles": [
+    "01 Sefirot/Daath.md",
+    "_source/bonner_sefirot/Daath - Bonner.md",
+    "01 Sefirot/07 Netzach.md",
+    "01 Sefirot/06 Tiphareth.md",
+    "01 Sefirot/05 Geburah.md",
+    "01 Sefirot/04 Chesed.md",
+    "01 Sefirot/03 Binah.md",
     "01 Sefirot/02 Chokmah.md",
+    "01 Sefirot/01 Kether.md",
+    "01 Sefirot/09 Yesod.md",
+    "01 Sefirot/10 Malkuth.md",
     "02 Paths/11 Aleph.md",
     "_source/bonner_sefirot_mapping.md",
     "_source/bonner_sefirot/10 Malkuth - Bonner.md",
@@ -219,17 +229,7 @@
     "03 Tarot/Major Arcana/The Sun.md",
     "03 Tarot/Minor Arcana/The 4 Aces.md",
     "03 Tarot/Minor Arcana/Court Cards.md",
-    "03 Tarot/Minor Arcana/Court Cards/Kings/Король Жезлов.md",
-    "03 Tarot/Major Arcana/Emperors of Princes.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Пентаклей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Чаш.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Мечей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princesses/Паж Жезлов.md",
     "03 Tarot/Minor Arcana/Court Cards/Princesses",
-    "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Пентаклей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Чаш.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Мечей.md",
-    "03 Tarot/Minor Arcana/Court Cards/Princes/Рыцарь Жезлов.md",
     "03 Tarot/Minor Arcana/Court Cards/Princes",
     "03 Tarot/Minor Arcana/Court Cards/Queens",
     "03 Tarot/Minor Arcana/Court Cards/Kings",
