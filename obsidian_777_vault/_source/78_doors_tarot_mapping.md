@@ -1,0 +1,80 @@
+# 78 дверей: карта переноса
+
+- 01 - Шут.md -> Major Arcana/The Fool.md
+- 02 - Маг.md -> Major Arcana/The Magician.md
+- 03 - Жрица.md -> Major Arcana/The High Priestess.md
+- 04 - Императрица.md -> Major Arcana/The Empress.md
+- 05 - Император.md -> Major Arcana/The Emperor.md
+- 06 - Жрец.md -> Major Arcana/The Hierophant.md
+- 07 - Влюбленные.md -> Major Arcana/The Lovers.md
+- 08 - Колесница.md -> Major Arcana/The Chariot.md
+- 09 - Справедливость.md -> Major Arcana/Justice.md
+- 10 - Отшельник.md -> Major Arcana/Hermit.md
+- 11 - Колесо Фортуны.md -> Major Arcana/Wheel of Fortune.md
+- 12 - Сила.md -> Major Arcana/Strength.md
+- 13 - Повешенный.md -> Major Arcana/The Hanged Man.md
+- 14 - Смерть.md -> Major Arcana/Death.md
+- 15 - Умеренность.md -> Major Arcana/Temperance.md
+- 16 - Мир.md -> Major Arcana/The Universe.md
+- 17 - Суд.md -> Major Arcana/Wands.md
+- 18 - Солнце.md -> Major Arcana/The Sun.md
+- 19 - Луна.md -> Major Arcana/The Moon.md
+- 20 - Звезда.md -> Major Arcana/The Star.md
+- 21 - Башня.md -> Major Arcana/The House of God.md
+- 22 - Дьявол.md -> Major Arcana/The Devil.md
+- 23 - Король Чаш.md -> Major Arcana/Kings - Knights.md
+- 24 - Дама Чаш.md -> Major Arcana/Queens.md
+- 25 - Рыцарь Чаш.md -> Minor Arcana/The 4 Sixes.md
+- 26 - Паж Чаш.md -> Minor Arcana/The 4 Tens.md
+- 27 - Десятка Чаш.md -> Minor Arcana/The 4 Tens.md
+- 28 - Девятка Чаш.md -> Minor Arcana/The 4 Nines.md
+- 29 - Восьмерка Чаш.md -> Minor Arcana/The 4 Eights.md
+- 30 - Семерка Чаш.md -> Minor Arcana/The 4 Sevens.md
+- 31 - Шестерка Чаш.md -> Minor Arcana/The 4 Sixes.md
+- 32 - Пятерка Чаш.md -> Minor Arcana/The 4 Fives.md
+- 33 - Четверка Чаш.md -> Minor Arcana/The 4 Fours.md
+- 34 - Тройка Чаш.md -> Minor Arcana/The 4 Threes.md
+- 35 - Двойка Чаш.md -> Minor Arcana/The 4 Twos.md
+- 36 - Туз Чаш.md -> Minor Arcana/The 4 Aces.md
+- 37 - Туз Жезлов.md -> Minor Arcana/The 4 Aces.md
+- 38 - Двойка Жезлов.md -> Minor Arcana/The 4 Twos.md
+- 39 - Тройка Жезлов.md -> Minor Arcana/The 4 Threes.md
+- 40 - Четверка Жезлов.md -> Minor Arcana/The 4 Fours.md
+- 41 - Пятерка Жезлов.md -> Minor Arcana/The 4 Fives.md
+- 42 - Шестерка Жезлов.md -> Minor Arcana/The 4 Sixes.md
+- 43 - Семерка Жезлов.md -> Minor Arcana/The 4 Sevens.md
+- 44 - Восьмерка Жезлов.md -> Minor Arcana/The 4 Eights.md
+- 45 - Девятка Жезлов.md -> Minor Arcana/The 4 Nines.md
+- 46 - Десятка Жезлов.md -> Minor Arcana/The 4 Tens.md
+- 47 - Паж Жезлов.md -> Minor Arcana/The 4 Tens.md
+- 48 - Рыцарь Жезлов.md -> Minor Arcana/The 4 Sixes.md
+- 49 - Дама Жезлов.md -> Major Arcana/Queens.md
+- 50 - Король Жезлов.md -> Major Arcana/Kings - Knights.md
+- 51 - Туз Мечей.md -> Minor Arcana/The 4 Aces.md
+- 52 - Двойка Мечей.md -> Minor Arcana/The 4 Twos.md
+- 53 - Тройка Мечей.md -> Minor Arcana/The 4 Threes.md
+- 54 - Четверка Мечей.md -> Minor Arcana/The 4 Fours.md
+- 55 - Пятерка Мечей.md -> Minor Arcana/The 4 Fives.md
+- 56 - Шестерка Мечей.md -> Minor Arcana/The 4 Sixes.md
+- 57 - Семерка Мечей.md -> Minor Arcana/The 4 Sevens.md
+- 58 - Восьмерка Мечей.md -> Minor Arcana/The 4 Eights.md
+- 59 - Девятка Мечей.md -> Minor Arcana/The 4 Nines.md
+- 60 - Десятка Мечей.md -> Minor Arcana/The 4 Tens.md
+- 61 - Паж Мечей.md -> Minor Arcana/The 4 Tens.md
+- 62 - Рыцарь Мечей.md -> Minor Arcana/The 4 Sixes.md
+- 63 - Дама Мечей.md -> Major Arcana/Queens.md
+- 64 - Король Мечей.md -> Major Arcana/Kings - Knights.md
+- 65 - Король Пентаклей.md -> Major Arcana/Kings - Knights.md
+- 66 - Дама Пентаклей.md -> Major Arcana/Queens.md
+- 67 - Рыцарь Пентаклей.md -> Minor Arcana/The 4 Sixes.md
+- 68 - Паж Пентаклей.md -> Minor Arcana/The 4 Tens.md
+- 69 - Десятка Пентаклей.md -> Minor Arcana/The 4 Tens.md
+- 70 - Девятка Пентаклей.md -> Minor Arcana/The 4 Nines.md
+- 71 - Восьмерка Пентаклей.md -> Minor Arcana/The 4 Eights.md
+- 72 - Семерка Пентаклей.md -> Minor Arcana/The 4 Sevens.md
+- 73 - Шестерка Пентаклей.md -> Minor Arcana/The 4 Sixes.md
+- 74 - Пятерка Пентаклей.md -> Minor Arcana/The 4 Fives.md
+- 75 - Четверка Пентаклей.md -> Minor Arcana/The 4 Fours.md
+- 76 - Тройка Пентаклей.md -> Minor Arcana/The 4 Threes.md
+- 77 - Двойка Пентаклей.md -> Minor Arcana/The 4 Twos.md
+- 78 - Туз Пентаклей.md -> Minor Arcana/The 4 Aces.md
