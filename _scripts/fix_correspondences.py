@@ -20,11 +20,12 @@ ENTITY_BUCKET = {
     "Deities": "deities", "Demons": "demons", "Angels": "angels", "Spirits": "spirits",
     "Animals": "animals", "Plants": "plants", "Stones": "stones", "Perfumes": "perfumes",
     "Colors": "colors", "Magical Weapons": "weapons", "Other": "other",
+    "Metals": "metals", "Drugs": "drugs",
 }
 # порядок вывода corr_* свойств
 BUCKET_ORDER = ["tarot", "letters", "astrology", "numbers", "deities", "demons",
-                "angels", "spirits", "animals", "plants", "stones", "perfumes",
-                "colors", "weapons", "other"]
+                "angels", "spirits", "animals", "plants", "stones", "metals",
+                "perfumes", "drugs", "colors", "weapons", "other"]
 LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
 
 

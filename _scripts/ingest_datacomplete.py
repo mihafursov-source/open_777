@@ -37,6 +37,34 @@ TIER1 = [
  ("VII. Orders of the Qliphoth", "demon", "Demons"),
 ]
 
+# Tier 2: для колонок с ивритским первоисточником берём ТРАНСЛИТЕРАЦИОННУЮ колонку (латиница).
+# Шумные/описательные колонки (ады арабов с «жителями», алхим. металлы, имена Бога на иврите) — НЕ берём.
+TIER2 = [
+ ("LIX. Archangels of the Quarters Transliterated", "angel", "Angels"),
+ ("LIX. Archangels of the Quarters", "angel", "Angels"),
+ ("LXI. Angels of the Elements Transliterated", "angel", "Angels"),
+ ("CXCIV. Intelligences (Transliteration)", "angel", "Angels"),
+ ("LXXXV. Angels of Briah Transliteration", "angel", "Angels"),
+ ("LXXXVI. Choirs of Angels in Briah Transliteration", "angel", "Angels"),
+ ("XCIX. Archangels of Assiah Transliterated", "angel", "Angels"),
+ ("C. Angels of Assiah Transliterated", "angel", "Angels"),
+ ("CXCIII. Spirits of the Planets Transliteration.", "spirit", "Spirits"),
+ ("LXXX. Olympic Planetary Spirits", "spirit", "Spirits"),
+ ("XLVII. Kings and Princes of the Jinn", "spirit", "Spirits"),
+ ("LX. Rulers of the Elements Transliterated", "spirit", "Spirits"),
+ ("LXII. Kings of the Elemental Spirits", "spirit", "Spirits"),
+ ("LXVIII. The Demon Kings", "demon", "Demons"),
+ ("XXXVII. Hindu Legendary Demons", "demon", "Demons"),
+ ("CVIII. Some Princes of the Qliphoth Transliterated", "demon", "Demons"),
+ ("CIX. Kings of Edom Transliterated", "demon", "Demons"),
+ ("CIX. Dukes of Edom Transliterated", "demon", "Demons"),
+ ("LXXXI. Metals", "metal", "Metals"),
+ ("XLIII. Vegetable Drugs", "drug", "Drugs"),
+ ("XLIV. Mineral Drugs", "drug", "Drugs"),
+]
+TIERS = {1: TIER1, 2: TIER2}
+EXTRA_NOISE = {"insufficient information", "n/a", "none", "unknown", "various"}
+
 
 import unicodedata
 
@@ -114,7 +142,9 @@ def make_entity(name, etype, folder, appears, dry):
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--dry", action="store_true"); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--tier", type=int, default=1, choices=[1, 2]); a = ap.parse_args()
+    COLS = TIERS[a.tier]
     rows = list(csv.reader(open(DC, encoding="utf-8-sig")))
     hdr = rows[0]
     colidx = {h: i for i, h in enumerate(hdr)}
@@ -134,7 +164,7 @@ def main():
     new_ents = {}             # basename -> (etype, folder)
     created = reused = 0
 
-    for col, etype, folder in TIER1:
+    for col, etype, folder in COLS:
         if col not in colidx:
             print("⚠ нет колонки:", col[:40]); continue
         ci = colidx[col]
@@ -150,6 +180,10 @@ def main():
             for name in split_entities(r[ci] if ci < len(r) else "", etype):
                 if not name or is_noise(name):
                     continue
+                if name.strip().lower() in EXTRA_NOISE:
+                    continue
+                if re.search(r"[֐-׿]", name):   # иврит — пропускаем (нужна латиница)
+                    continue
                 norm = fold(name)
                 if norm in exist:
                     base = exist[norm]; reused += 1
@@ -159,7 +193,7 @@ def main():
                 sef_add.setdefault(note, set()).add(base)
                 ent_back.setdefault(base, set()).add(label)
 
-    print(f"Tier 1: уникальных привязок-сущностей: {len(ent_back)} | новых заметок: {len(new_ents)} | "
+    print(f"Tier {a.tier}: уникальных привязок-сущностей: {len(ent_back)} | новых заметок: {len(new_ents)} | "
           f"(вхождений: создано={created}, переиспользовано={reused})")
     # по бакетам
     from collections import Counter
