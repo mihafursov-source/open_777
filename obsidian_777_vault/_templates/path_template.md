@@ -1,5 +1,0 @@
-# {{number}} {{name}}
-
-## Кратко
-
-## Connects
