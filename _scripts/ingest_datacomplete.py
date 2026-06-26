@@ -62,7 +62,26 @@ TIER2 = [
  ("XLIII. Vegetable Drugs", "drug", "Drugs"),
  ("XLIV. Mineral Drugs", "drug", "Drugs"),
 ]
-TIERS = {1: TIER1, 2: TIER2}
+TIER3 = [
+ ("CLV. Transl.", "demon", "Demons"),     # гоэтич. демоны деканов: день Asc
+ ("CLVII. Transl.", "demon", "Demons"),   # день Succ
+ ("CLIX. Transl.", "demon", "Demons"),    # день Cadent
+ ("CLXI. Transl.", "demon", "Demons"),    # ночь Asc
+ ("CLXIII. Transl.", "demon", "Demons"),  # ночь Succ
+ ("CLXV. Transl.", "demon", "Demons"),    # ночь Cadent
+ ("CLXVII. Egyptian Gods of the Zodiac (Asc. Decans)", "deity", "Deities"),
+ ("CLXIX. Egyptian Gods of the Zodiac (Succedent)", "deity", "Deities"),
+ ("CLXXI. Egyptian Gods of the Zodiac (Cadent)", "deity", "Deities"),
+ ("CXLVI. Eng", "angel", "Angels"),       # ангелы деканов (транслит): Asc
+ ("CXLVII. Eng", "angel", "Angels"),      # Succ
+ ("CXLVIII. Eng", "angel", "Angels"),     # Cadent
+ ("CXLII. Angels Ruling Houses Transliterated", "angel", "Angels"),
+ ("CXLIII. Twelve Lesser Assistant Angels in the Signs (Transl).", "angel", "Angels"),
+ ("CLXXVIII. Geomantic Intelligences (Transliterated)", "angel", "Angels"),
+ ("CLXXIII. Genii of the Twelve Hours", "spirit", "Spirits"),
+ ("CXLI. Twelve Tribes Transliterated", "other", "Other"),
+]
+TIERS = {1: TIER1, 2: TIER2, 3: TIER3}
 EXTRA_NOISE = {"insufficient information", "n/a", "none", "unknown", "various"}
 
 
@@ -143,7 +162,7 @@ def make_entity(name, etype, folder, appears, dry):
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--dry", action="store_true")
-    ap.add_argument("--tier", type=int, default=1, choices=[1, 2]); a = ap.parse_args()
+    ap.add_argument("--tier", type=int, default=1, choices=[1, 2, 3]); a = ap.parse_args()
     COLS = TIERS[a.tier]
     rows = list(csv.reader(open(DC, encoding="utf-8-sig")))
     hdr = rows[0]
